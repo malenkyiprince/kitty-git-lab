@@ -1,4 +1,38 @@
-# kitty-git-lab
-a tiny cozy journey through git, commits &amp; github magic 🎀
-learning git step by step 🎀
-practicing git remotes 🎀
+# ୨୧ kitty-git-lab ♡
+
+˚₊‧ a tiny pink laboratory of questionable git experiments ‧₊˚
+
+```text
+       /\_/\
+      ( ˶•ᴗ•˶ )
+      /づ🧪⊂
+```
+
+### ꒰ა what happened here ໒꒱
+
+здесь проводились кровавые эксперименты над людьми,
+ветками и остатками здравого смысла ♡
+
+коммиты создавались.
+связи обрывались.
+из удалённых репозиториев доносились странные звуки.
+
+### ୨୧ experiment log
+
+- 🎀 подключали удалённые репозитории
+- 🐾 отправляли изменения через `git push`
+- 🧪 вытягивали чужие секреты через `git pull`
+- ✦ удаляли подключения, чтобы замести следы
+
+୨୧ ─────── ♡ ─────── ୨୧
+
+ни один котёнок не пострадал.
+люди согласие на публикацию результатов не дали.
+
+```text
+       /\_/\
+      ( ˶•ﻌ•˶ )
+      /づ♡ づ
+```
+
+*made with love, git & suspicious intentions 🎀*
